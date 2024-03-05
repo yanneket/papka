@@ -1,0 +1,7 @@
+venv/
+app/.pylintrc
+__pycache__/
+.vscode
+.idea
+app/db.sqlite3
+media/
